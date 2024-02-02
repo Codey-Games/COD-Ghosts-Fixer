@@ -1,5 +1,6 @@
-# <img src="https://github.com/Codey-Games/COD-Ghosts-Fixer/blob/main/images/logo/logo.png?raw=true"> Call of Duty: Ghosts - Fixer
+# ![image](https://github.com/Codey-Games/COD-Ghosts-Fixer/assets/139372643/b895d4a3-ab31-4d10-83d6-c717794c6b08) Call of Duty: Ghosts - Fixer
 ## - <a href="https://github.com/Codey-Games/COD-Ghosts-Fixer/releases">Releases</a> - <a href="https://github.com/Codey-Games/COD-Ghosts-Fixer/issues">Issues</a> - <a href="https://github.com/Codey-Games/COD-Ghosts-Fixer/tree/main/COD%20Ghosts%20Fixer">Source Code</a> - <br>
+
 
 > [!WARNING]
 >This fix will only do stuff for cracked versions of the game, features for paid versions (might) come later!
