@@ -6,8 +6,11 @@
 > Some common paths for Call of Duty: Ghosts are:
 >
 > `C:\Games\Call of Duty - Ghosts\iw6sp64_ship.exe`
+> 
 > `C:\Program Files (x86)\DODI-Repacks\Call of Duty Ghosts\iw6sp64_ship.exe`
+> 
 > `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Ghosts\iw6sp64_ship.exe`
+> 
 > `C:\SteamLibrary\Call of Duty Ghosts\iw6sp64_ship.exe`
 
 <br>
